@@ -1,1 +1,1 @@
-This branch contains function subBytes(). The function receives a state and convert all bytes using the lookUp Table declared inside the function
+This branch contains all functions. The purpose of the branch is join all in one class
