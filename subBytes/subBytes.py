@@ -30,6 +30,11 @@ def subByte(iByte): #0    #1    #2    #3    #4    #5    #6    #7    #8    #9    
 
     return lut[x][y]
 
+'''
+Function: subBytes(state)
+Parameter: An array of bytes
+Description: For each byte, applies subByte()
+'''
 
 def subBytes(state):
     for idx, x in np.ndenumerate(state):
