@@ -1,4 +1,5 @@
 import numpy as np
+
 '''
 Function: subByte(iByte)
 Parameter: iByte -> A byte (value between 0 and 255)
