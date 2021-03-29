@@ -1,1 +1,1 @@
-This branch contains all functions. The purpose of the branch is join all in one class
+This branch contains shiftRows() function. The purpose of the branch is implement the function that will shift the rows of the state array
